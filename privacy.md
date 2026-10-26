@@ -51,4 +51,4 @@ If this policy changes, the new version will be posted on this page with a new e
 
 ## Contact
 
-Questions? Email **rustamov.ramazan97@gmail.com**.
+Questions? Email **kodebuddy.support@gmail.com**.
