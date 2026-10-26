@@ -1,6 +1,6 @@
 # KodeBuddy Support
 
-Need help, found a bug, or have an idea? Email **rustamov.ramazan97@gmail.com**, or tap **Profile → Settings → Send feedback** in the app.
+Need help, found a bug, or have an idea? Email **kodebuddy.support@gmail.com**, or tap **Profile → Settings → Send feedback** in the app.
 
 ## Common questions
 
